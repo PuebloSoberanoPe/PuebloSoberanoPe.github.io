@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aimara on Pueblo Soberano</title>
+    <link>https://pueblosoberano.com/tags/aimara/</link>
+    <description>Recent content in Aimara on Pueblo Soberano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pueblosoberano.com/tags/aimara/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Juan Post</title>
+      <link>https://pueblosoberano.com/post/ejemplo/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pueblosoberano.com/post/ejemplo/</guid>
+      <description>Una publicación cursivas, negritas, código y más.</description>
+    </item>
+    
+  </channel>
+</rss>
