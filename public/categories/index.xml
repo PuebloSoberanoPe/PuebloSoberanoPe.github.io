@@ -5,16 +5,6 @@
     <link>https://pueblosoberano.com/categories/</link>
     <description>Recent content in Categories on Pueblo Soberano</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pueblosoberano.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Lenguas</title>
-      <link>https://pueblosoberano.com/categories/lenguas/</link>
-      <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pueblosoberano.com/categories/lenguas/</guid>
-      <description></description>
-    </item>
-    
+    <language>es-es</language><atom:link href="https://pueblosoberano.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
