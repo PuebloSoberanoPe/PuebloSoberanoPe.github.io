@@ -5,7 +5,7 @@ description: ""
 date:        2023-02-28
 author:      "Juan Post"
 image:       ""
-tags:        ["Asamblea Constituyente", "Constitución"]
+tags:        ["Asamblea Constituyente", "Constitución", "Estado plurinacional"]
 ---
 Estimados compañeros:
 

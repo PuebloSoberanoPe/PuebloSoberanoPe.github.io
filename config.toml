@@ -2,3 +2,9 @@ baseurl = "https://pueblosoberano.com"
 title = "Pueblo Soberano"
 theme = "hugo-theme-stack"
 languageCode = "es-es"
+[Params.sidebar]
+  emoji = "🇵🇪"
+[Params.sidebar.avatar]
+  enable = true
+  src    = "img/avatar.png"
+  local  = true
