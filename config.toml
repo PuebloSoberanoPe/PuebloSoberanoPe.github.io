@@ -2,9 +2,33 @@ baseurl = "https://pueblosoberano.com"
 title = "Pueblo Soberano"
 theme = "hugo-theme-stack"
 languageCode = "es-es"
+# Configuración del tema Stack
+DefaultContentLanguage = "es"
 [Params.sidebar]
+  subtitle = "Una asociación con conciencia social compuesta por un amplio perfil de peruanos preocupados por el bien del país"
   emoji = "🇵🇪"
 [Params.sidebar.avatar]
   enable = true
   src    = "img/avatar.png"
   local  = true
+[menu]
+[[menu.social]]
+  identifier = "twitter"
+  name = "Twitter"
+  url = "https://twitter.com/PuebloSoberanoP"
+[menu.social.params]
+  icon = "brand-twitter"
+
+[[menu.social]]
+  identifier = "gmail"
+  name = "Gmail"
+  url = "mailto:pueblosoberanope@gmail.com"
+[menu.social.params]
+  icon = "brand-gmail"
+
+[[menu.social]]
+  identifier = "github"
+  name = "GitHub"
+  url = "https://github.com/PuebloSoberanoPe"
+[menu.social.params]
+  icon = "brand-github"

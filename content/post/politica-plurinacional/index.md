@@ -9,7 +9,7 @@ tags:        ["Estado plurinacional", "multilingüismo"]
 ---
 Desde que las poblaciones colonizadas por las potencias europeas lograron su libertad y, posteriormente, se constituyeron como países independientes, éstas han ido recuperando la noción de sus orígenes y han construido o están reconstruyendo su identidad como nación tanto individual como colectivamente. Todo depende del proceso de colonización en cada preciso lugar del mundo donde tuvo lugar dicho proceso. Es así que estos hechos históricos fácilmente se pueden corroborar: no es el mismo proceso el de la colonización española en la América hispánica que el proceso de la colonización inglesa en Australia o Norteamérica, o el de la colonización francesa en África, por ejemplo. Estos hechos históricos han determinado y condicionado la problemática socieconómica de estas poblaciones y ello implica, por supuesto, a todo lo referente a su propia identidad como pueblo diferenciado de otros pueblos similares o alejados de ellos.
 
-![](/img/polplur1.jpg)
+![](img1.png)
 
 En el Perú, esa identidad pasa por reconocerse dentro de una realidad étnica, cultural y lingüística. En nuestro país, en el año 2023, según el Ministerio de Cultura existen 55 pueblos indígenas y se hablan 47 lenguas originarias dentro del territorio peruano. Además, hay que agregarle a la diversidad originaria del país las masas humanas posteriores que llegaron al Perú desde diversas partes del mundo por varias razones (colonizadores, colonos, esclavos, inmigrantes, refugiados, etc.).
 
@@ -19,13 +19,13 @@ El filósofo y politólogo José Carlos Mariátegui, en sus _Siete ensayos de in
 
 Como vemos, las naciones originarias en el Perú han sufrido y siguen sufriendo la destrucción no solo de su modo de vivir, sino que el Estado, que se supone debe protegerlos, hace todo lo contrario y atenta contra sus vidas. Este racismo, clasismo y desprecio por las vidas de los indígenas se ven reflejados también en la sociedad peruana. Expresiones como las del expresidente Alan García que, en el año 2009 dijo, en el contexto de un conflicto ambiental con los indígenas de la provincia de Bagua, que ellos (los indígenas)  “no son ciudadanos de primera clase”. 
 
-![](/img/polplur2.jpg)
+![](img2.png)
 
 Es así que en este contexto de desigualdad económica y social surge el concepto de Estado Plurinacional como alternativa al sistema injusto que se le impuso y se le sigue imponiendo a la fuerza a las poblaciones indígenas. El Estado Plurinacional es la organización política y jurídica, que reconoce la diversidad étnica, cultural y lingüística de los pueblos originarios de América Latina como Ecuador y Bolivia (en estos dos países las asociaciones indígenas están muy bien organizadas políticamente) que ya gozan de una Constitución Plurinacional. Por lo tanto, estamos hablando de una corriente política y jurídica que aparece en nuestra región para resolver una problemática que ha permanecido vigente desde hace 500 años con la conquista española. Este largo proceso de colonización ha requerido de una contraparte de descolonización para que tenga un efecto real; es decir, la descolonización significa la liberación de los pueblos indígenas de Latinoamérica de la influencia occidental europea que ha tratado de homogeneizarlos con la población no-indígena mediante el mestizaje y la imposición de la cultura occidental y la religión católica que les eran ajenas a los pueblos originarios. 
 
 Sabemos que esta nueva organización del Estado podría traer suspicacias referente al término Plurinacional, en cuanto a que dividiría a los peruanos y al país, como ocurrió en el proceso chileno del referéndum para el fallido cambio de Constitución en el año 2022. Sin embargo, es necesario recordar que de acuerdo con la Constitución vigente del Perú, en sus artículos 52 y 53, ésta acepta la posibilidad de que los ciudadanos peruanos puedan adquirir otra nacionalidad además de la nacionalidad peruana. Asimismo, el 11 de enero de 1996 se publicó en el diario oficial El Peruano, la Ley 26574 que en su artículo 9 dice lo siguiente: “Los peruanos de nacimiento, que adoptan la nacionalidad de otro país, no pierden su nacionalidad salvo que hagan renuncia expresa de ella ante la autoridad competente”. Y, a continuación, en el artículo 10 de la misma ley dice: “Las personas que gozan de doble nacionalidad, ejercitan los derechos y obligaciones de la nacionalidad del país donde domicilian (y cuya nacionalidad poseen)”. 
 
-![](/img/polplur3.jpg)
+![](img3.png)
 
 De esta forma vemos que la posibilidad de que los peruanos puedan tener dos o más nacionalidades es ya una realidad y está en práctica, pues está permitida por la legislación peruana vigente. Así, pues, en términos de Plurinacionalidad dentro de un mismo Estado, como ocurre con las Constituciones plurinacionales de Bolivia y Ecuador, cabe hacer la siguiente pregunta: ¿por qué algunas personas (sobre todo conservadores y progresistas liberales) ven con escepticismo y rechazo que dentro de un mismo Estado convivan ciudadanos con dos nacionalidades? 
 
@@ -39,7 +39,7 @@ El filólogo francés Ernst Renan concluye que, a propósito de la diversidad de
 
 Sin duda, la plurinacionalidad no va a resolver todos los problemas de desigualdad en el Perú. Sería ingenuo pensar eso, pero sí es un avance significativo en el reordenamiento del Estado caótico y desigual que tenemos en la actualidad con esta Constitución neoliberal de 1993. Lo peor sería no hacer nada y dejar todo igual. Es así que aún queda por resolver temas de organización territorial, y también de una correcta distribución de la riqueza que produce cada región. Desde esta plataforma creemos que una solución a esta problemática es refundar al Perú en un Estado federal, donde las regiones se conviertan en Estados que se autogobiernen para que trabajen para su comunidad y, por supuesto, junto a las otras regiones para el beneficio conjunto del Estado peruano. 
 
-![](/img/polplur4.jpg)
+![](img4.png)
 
 Actualmente, la mala organización del Estado ha generado que el centralismo limeño sea ineficiente a la hora de distribuir la riqueza de las regiones. Creemos firmemente que lo que produce cada región se debe quedar en cada región y solo una pequeña parte debería ir al Estado central. En la misma temática, trabajar para convertir al Perú en un Estado social donde se garantice a todos los peruanos sin distinción un verdadero acceso universal a salud de calidad y a la educación gratuita preescolar, escolar y universitaria a estudiantes de bajos recursos económicos y/o de excelencia académica mediante más becas públicas. Pero estos temas de vital importancia para la paz social de nuestro país serán objeto de otro artículo.
 

@@ -15,7 +15,7 @@ Las reivindicaciones de las marchas y manifestaciones pacíficas que están ocur
 
 Cuando asumió el poder, en el año 2021, la figura presidencial de Pedro Castillo trajo un poco de esperanza a ese pueblo olvidado que votó por él. No solo fueron 200 años de república criolla, sino desde hace 500 años, con la llegada de los europeos, que esa marginación a nuestros pueblos originarios y poblaciones vulnerables han causado un daño profundo a la sociedad peruana. Fueron los conquistadores españoles quienes arrebataron la tierra a nuestros pueblos originarios causando un grave deterioro social, económico y político y que sus terribles consecuencias llegan hasta nuestros días.
 
-![](/img/mancons1.jpg "Fuente: Agencia Andina")
+![](img1.jpg "Fuente: Agencia Andina")
 
 Si bien la Reforma Agraria del presidente Juan Velasco Alvarado reparó en parte la injusticia histórica contra nuestros pueblos originarios y contra nuestros campesinos y nativos, el centralismo del Perú, que concentra demasiado poder en su capital, Lima, ha agudizado este problema en perjuicio de las poblaciones más vulnerables de todo el país. Por estas razones, se necesita un nuevo enfoque de acuerdo a las demandas de nuestro pueblo diverso, pero rico en recursos naturales y cultura. Estos cambios, tienen que refundar al Perú y eso significa un cambio de Constitución, por una nueva carta magna donde se reconozca la diversidad de los pueblos que componen la nación peruana.
 
@@ -27,7 +27,7 @@ Si se consigue llegar a una Asamblea Constituyente, directamente o mediante un r
 
 En cuanto a lo económico, en el pasado, los intentos de descentralizar el país han sido infructuosos y han empeorado la situación de centralización del poder en Lima, la capital, en desmedro de la población que vive en el interior del país. Entonces, para una mejor distribución de la riqueza de las regiones se debe plantear un cambio al modelo centralista. Puede ser sistema autonómico, de reforzamiento y de mejor autogestión de las regiones, etc. Desde este Manifiesto Constituyente exploramos la idea de un Estado federal, donde cada región o estado recaude e invierta lo que produce y ya no tenga que esperar a que un burócrata del MEF (Ministerio de Economía y Finanzas) le diga cómo y en qué puede gastar lo que produce por sus actividades comerciales y sus recursos naturales cada región del país. No puede haber nadie que sepa mejor las necesidades reales de su propia región que los naturales de ese lugar y no alguien ajeno a esa realidad desde una oficina burocrática a cientos o miles de kilómetros, y que se base en solo en fríos datos y no viva día a día esa realidad. 
 
-![](/img/mancons2.jpg "Fuente: Agencia Andina")
+![](img2.jpg "Fuente: Agencia Andina")
 
 Por último, en el aspecto político, cambiar el enfoque neoliberal actual por un enfoque de Estado Social verdadero hará justicia en un país con ingentes riquezas gracias a sus recursos naturales que no se distribuyen adecuadamente por el modelo centralista del país.  Esta crisis política que no tiene cuándo acabar ha dado como resultado un estallido social que se ha llevado decenas de vidas que en un momento dado deberán ser juzgadas como se juzgó los delitos y crímenes ocurridos en la década de los noventa. 
 

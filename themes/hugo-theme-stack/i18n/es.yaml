@@ -30,12 +30,12 @@ article:
         other: Última vez actualizado
 
     readingTime:
-        one: "{{ .Count }} minuto a leer"
-        other: "{{ .Count }} minutos a leer"
+        one: "{{ .Count }} minuto de lectura"
+        other: "{{ .Count }} minutos de lectura"
 
 notFound:
     title:
-        other: No Encontrado
+        other: No encontrado
 
     subtitle:
         other: Esta página no existe
@@ -60,7 +60,7 @@ search:
         other: Búsqueda
 
     placeholder:
-        other: Teclea algo...
+        other: Escriba algo...
 
     resultTitle:
         other: "#PAGES_COUNT páginas en (#TIME_SECONDS segundos)"
